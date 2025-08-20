@@ -1,0 +1,13 @@
+restaurant_id,restaurant_name,city,opening_hours
+REST001,Biryani Baithak,Hyderabad,10:00-23:00
+REST002,Charminar Spice Hub,Hyderabad,10:00-23:00
+REST003,Nizam's Delights,Hyderabad,10:00-23:00
+REST004,Deccan Dhaba,Hyderabad,10:00-23:00
+REST005,Hyderabad House,Hyderabad,10:00-23:00
+REST006,Saffron Sizzle,Hyderabad,10:00-23:00
+REST007,South Flavour,Hyderabad,10:00-23:00
+REST008,Punjabi Zaika,Hyderabad,10:00-23:00
+REST009,Coastal Curry,Hyderabad,10:00-23:00
+REST010,Mughlai Mahal,Hyderabad,10:00-23:00
+REST011,Chettinad Chaska,Hyderabad,10:00-23:00
+REST012,Kakatiya Kitchen,Hyderabad,10:00-23:00
