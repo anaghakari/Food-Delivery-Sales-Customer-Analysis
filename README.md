@@ -89,18 +89,14 @@ Food-Delivery-Analytics/
 │
 ├── datasets/              # Raw datasets (customers, restaurants, orders, deliveries, riders)
 │
-├── queries/               # SQL queries for each analysis question
-│   ├── customer/          # Customer insights queries
-│   ├── restaurant/        # Restaurant performance queries
-│   ├── riders/            # Rider analytics queries
-│   └── operations/        # Cancellation, time-slot, seasonal trends queries
+├── script/                             # SQL queries for each analysis question
+│   ├── zomato_sql_solutions/           # Advanced analysis queries
 │
 ├── docs/                  # Documentation, ER diagrams, flow charts
 │   ├── Schema.drawio      # Entity-relationship schema for all tables
 │        
 │
-├── README.md              # Project overview (this file)
-└── LICENSE                # License information (MIT)
+└── README.md              # Project overview (this file)
 
 ```
 ---
@@ -125,11 +121,6 @@ Food-Delivery-Analytics/
 
 ---
 
-## 🛡 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙋‍♂ About Me
 
@@ -141,8 +132,6 @@ This repository reflects my journey of applying data + logic + creativity to bui
 
 Let’s stay in touch! Feel free to connect with me here:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-kari-953b3b268/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapno___/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnonil___)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saianaghaca3@gmail.com)
 
 
