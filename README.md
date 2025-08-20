@@ -1,4 +1,141 @@
-# Food-Delivery-Sales-Customer-Analysis
-Designed a PostgreSQL schema for a Zomato-like food delivery platform and wrote advanced SQL queries using CTEs, joins, window functions, and aggregates. Analyzed top-selling dishes, seasonal demand, customer tiers, sales growth, cancellations, and rider efficiency with data cleaning and KPI insights.
+# 🍽 Food Delivery Analytics with SQL
 
+This project showcases *advanced SQL analytics* on a food delivery platform dataset. By querying and analyzing customer, restaurant, rider, and delivery data, the project extracts deep insights into user behavior, sales performance, restaurant growth, and operational efficiency.
 
+---
+
+## 🎯 Why this project?
+
+Food delivery apps generate massive amounts of transactional and behavioral data. To make smarter business decisions, companies must track:
+
+- customer loyalty and spending  
+- restaurant revenue and growth trends  
+- order cancellations and delivery efficiency  
+- rider performance and earnings  
+
+This project simulates such analyses using SQL to *answer real-world business questions* from a delivery platform’s perspective.
+
+---
+
+## 🌐 Real-world context
+
+Imagine a food delivery platform (like Swiggy, Zomato, or Uber Eats) that wants to optimize its ecosystem by analyzing:
+
+- *customers*: ordering frequency, churn, lifetime value  
+- *restaurants*: top revenue drivers, growth ratios, popular dishes  
+- *riders*: delivery times, efficiency, earnings, and ratings  
+- *operations*: cancellations, peak demand slots, and seasonal demand  
+
+This SQL project provides *end-to-end analytical insights* to help businesses optimize marketing, operations, and growth.
+
+---
+
+## 🧭 Project Overview
+
+This project covers *20 real-world business questions* implemented in SQL, spanning across:
+
+- 📊 *Customer Analytics*: top customers, churn, lifetime value, segmentation  
+- 🍔 *Restaurant Insights*: revenue ranking, growth rates, dish popularity  
+- 🚴 *Rider Performance*: average delivery time, monthly earnings, star ratings  
+- 🛠 *Operational Analysis*: cancellations, peak demand slots, seasonal trends  
+
+---
+
+## 📋 Project Requirements
+
+The project primarily involves *SQL queries* on five core tables:
+
+- *customers* – customer profiles  
+- *restaurants* – restaurant details  
+- *orders* – order transactions  
+- *deliveries* – delivery tracking with times and status  
+- *riders* – rider information  
+
+### Key SQL Deliverables
+
+- *Customer Behavior*  
+  - Top dishes ordered by a customer  
+  - Average order value (AOV) per customer  
+  - High-value customers (>3k spend)  
+  - Customer churn analysis (2023 vs 2024)  
+  - Customer segmentation (Gold vs Silver)  
+  - Customer Lifetime Value (CLV)  
+
+- *Restaurant Analysis*  
+  - Top 5 revenue-generating restaurants (last year)  
+  - Restaurant cancellation rate (year-over-year)  
+  - Monthly growth ratios of delivered orders  
+  - Popular dishes across restaurants  
+  - Restaurant ranking by city revenue  
+
+- *Order & Delivery Insights*  
+  - Popular ordering time slots  
+  - Orders placed but not delivered  
+  - Order frequency by weekday (peak day detection)  
+  - Seasonal demand spikes (Spring/Summer/Winter)  
+  - Monthly sales trends  
+
+- *Rider Performance*  
+  - Rider average, min, and max delivery time  
+  - Rider efficiency (fastest vs slowest)  
+  - Monthly rider earnings (8% commission model)  
+  - Rider ratings (based on delivery time → 5★, 4★, 3★)  
+
+---
+
+## 📁 Repository Structure
+```plaintext
+Food-Delivery-Analytics/
+│
+├── datasets/              # Raw datasets (customers, restaurants, orders, deliveries, riders)
+│
+├── queries/               # SQL queries for each analysis question
+│   ├── customer/          # Customer insights queries
+│   ├── restaurant/        # Restaurant performance queries
+│   ├── riders/            # Rider analytics queries
+│   └── operations/        # Cancellation, time-slot, seasonal trends queries
+│
+├── docs/                  # Documentation, ER diagrams, flow charts
+│   ├── Schema.drawio      # Entity-relationship schema for all tables
+│   ├── Query_Map.md       # Mapping of queries to business questions
+│
+├── README.md              # Project overview (this file)
+└── LICENSE                # License information (MIT)
+---
+
+## ⚙ Tech Stack
+
+- *PostgreSQL / SQL Server*  
+  - Used for writing and running analytical queries  
+  - Handles joins, CTEs, window functions, aggregations  
+
+- *T-SQL / PostgreSQL SQL*  
+  - Core query logic (ETL-lite, analytics, business insights)  
+
+- *CSV Datasets*  
+  - Mock source tables for customers, restaurants, orders, deliveries, riders  
+
+- *draw.io (ER diagrams)*  
+  - Visual schema and documentation  
+
+- *Markdown / GitHub*  
+  - Documentation, repo structure, and query explanations  
+
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂ About Me
+
+Hi, I’m *Swapnonil Ghosh, a final-year ECE undergraduate at NIT Agartala, with a keen interest in **data analytics and SQL-driven insights*.  
+I love solving real-world problems through structured data and smart queries 🚀.
+
+Let’s stay in touch:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnonilg/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapno___/)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnonil___)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnonilghosh03@gmail.com)
