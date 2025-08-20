@@ -125,8 +125,8 @@ Food-Delivery-Analytics/
 ## 🙋‍♂ About Me
 
 Hi, I’m Anagha Kari , an undergraduate Electrical Engineering student at NIT Agartala, passionate about solving problems through data-driven insights and technology.
-I'm  Goal-oriented, curious, and always eager to learn new tools & frameworks.
-I love Exploring Data Analytics, SQL, and Business Insights for real-world applications.
+I would describe myself as Goal-oriented, curious, and always eager to learn new tools & frameworks.
+I'm currently Exploring Data Analytics, SQL, and Business Insights for real-world applications.
 This repository reflects my journey of applying data + logic + creativity to build impactful solutions.
 
 
