@@ -108,12 +108,12 @@ Food-Delivery-Analytics/
   - Handles joins, CTEs, window functions, aggregations  
 
 - *PostgreSQL SQL*  
-  - Core query logic (ETL-lite, analytics, business insights)  
+  - Core query logic (Analytics, business insights)  
 
 - *CSV Datasets*  
   - Mock source tables for customers, restaurants, orders, deliveries, riders  
 
-- *draw.io (ER diagrams)*  
+- *ER diagrams*  
   - Visual schema and documentation  
 
 - *Markdown / GitHub*  
