@@ -66,7 +66,7 @@ The project primarily involves *SQL queries* on five core tables:
   - Restaurant cancellation rate (year-over-year)  
   - Monthly growth ratios of delivered orders  
   - Popular dishes across restaurants  
-  - Restaurant ranking by city revenue  
+  - Restaurant ranking by revenue  
 
 - *Order & Delivery Insights*  
   - Popular ordering time slots  
@@ -97,7 +97,7 @@ Food-Delivery-Analytics/
 │
 ├── docs/                  # Documentation, ER diagrams, flow charts
 │   ├── Schema.drawio      # Entity-relationship schema for all tables
-│   ├── Query_Map.md       # Mapping of queries to business questions
+│        
 │
 ├── README.md              # Project overview (this file)
 └── LICENSE                # License information (MIT)
@@ -109,7 +109,7 @@ Food-Delivery-Analytics/
   - Used for writing and running analytical queries  
   - Handles joins, CTEs, window functions, aggregations  
 
-- *T-SQL / PostgreSQL SQL*  
+- * PostgreSQL SQL*  
   - Core query logic (ETL-lite, analytics, business insights)  
 
 - *CSV Datasets*  
@@ -131,11 +131,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂ About Me
 
-Hi, I’m *Swapnonil Ghosh, a final-year ECE undergraduate at NIT Agartala, with a keen interest in **data analytics and SQL-driven insights*.  
-I love solving real-world problems through structured data and smart queries 🚀.
+Hi, I’m Anagha Kari , an undergraduate Electrical Engineering student at NIT Agartala, passionate about solving problems through data-driven insights and technology.
+I'm  Goal-oriented, curious, and always eager to learn new tools & frameworks.
+I love Exploring Data Analytics, SQL, and Business Insights for real-world applications.
+This repository reflects my journey of applying data + logic + creativity to build impactful solutions.
 
 Let’s stay in touch:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnonilg/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapno___/)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnonil___)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnonilghosh03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-kari-953b3b268/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saianaghaca3@gmail.com)
+
+
+
