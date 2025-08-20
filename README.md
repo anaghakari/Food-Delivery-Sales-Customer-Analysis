@@ -101,6 +101,8 @@ Food-Delivery-Analytics/
 │
 ├── README.md              # Project overview (this file)
 └── LICENSE                # License information (MIT)
+
+```
 ---
 
 ## ⚙ Tech Stack
