@@ -136,9 +136,11 @@ I'm  Goal-oriented, curious, and always eager to learn new tools & frameworks.
 I love Exploring Data Analytics, SQL, and Business Insights for real-world applications.
 This repository reflects my journey of applying data + logic + creativity to build impactful solutions.
 
-Let’s stay in touch:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-kari-953b3b268/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saianaghaca3@gmail.com)
 
+Let’s stay in touch! Feel free to connect with me here:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-kari-953b3b268/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapno___/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnonil___)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saianaghaca3@gmail.com)
 
 
