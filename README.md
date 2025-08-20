@@ -93,7 +93,7 @@ Food-Delivery-Analytics/
 │   ├── zomato_sql_solutions/           # Advanced analysis queries
 │
 ├── docs/                  # Documentation, ER diagrams, flow charts
-│   ├── Schema.drawio      # Entity-relationship schema for all tables
+│   ├── ERD_zomato_ss     # Entity-relationship schema for all tables
 │        
 │
 └── README.md              # Project overview (this file)
