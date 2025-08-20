@@ -107,7 +107,7 @@ Food-Delivery-Analytics/
   - Used for writing and running analytical queries  
   - Handles joins, CTEs, window functions, aggregations  
 
-- * PostgreSQL SQL*  
+- *PostgreSQL SQL*  
   - Core query logic (ETL-lite, analytics, business insights)  
 
 - *CSV Datasets*  
